@@ -2,10 +2,6 @@
 - cd into Repository
 - Run
 	```
-	docker compose-up
-	```
-
-- Run in another terminal
-	```
+	docker compose-up -d
 	node client/index.js
 	```
