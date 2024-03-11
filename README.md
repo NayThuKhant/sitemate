@@ -3,5 +3,8 @@
 - Run
 	```
 	docker compose-up -d
-	node client/index.js
+
+	cd client
+	npm install
+	node index.js
 	```
